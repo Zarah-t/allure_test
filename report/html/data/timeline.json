@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "WIN-DJ528GOHCBP",
+    "children" : [ {
+      "name" : "13304-MainThread",
+      "children" : [ {
+        "name" : "test_allure2",
+        "uid" : "97c17e5ffde9d67b",
+        "parentUid" : "16674511c5f34625a208c66d5bc6792c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589136427617,
+          "stop" : 1589136427639,
+          "duration" : 22
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_allure",
+        "uid" : "c5c52613bc847f8f",
+        "parentUid" : "16674511c5f34625a208c66d5bc6792c",
+        "status" : "failed",
+        "time" : {
+          "start" : 1589136427592,
+          "stop" : 1589136427609,
+          "duration" : 17
+        },
+        "flaky" : true,
+        "parameters" : [ ]
+      } ],
+      "uid" : "16674511c5f34625a208c66d5bc6792c"
+    } ],
+    "uid" : "164a59dae186b21a5b36bd7825223269"
+  } ]
+}
