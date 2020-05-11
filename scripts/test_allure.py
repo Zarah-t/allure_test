@@ -8,7 +8,6 @@ class TestAllure:
     def test_allure(self):
         allure.attach("输入1","输入1的描述")
         print(1)
-        print(2)
         assert 0
 
     @allure.step(title='allure1')
