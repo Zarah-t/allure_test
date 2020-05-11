@@ -11,7 +11,6 @@ class TestAllure:
         print(2)
         assert 0
 
-
     @allure.step(title='allure1')
     @allure.severity(allure.severity_level.BLOCKER)
     def test_allure2(self):
